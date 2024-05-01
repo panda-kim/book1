@@ -9,7 +9,7 @@
 ## Chapter 3. 데이터 프레임과 시리즈
 ## Chapter 4. 인덱스
 ## Chapter 5. 연산
-[https://i.postimg.cc/FF8WKV8g/5-21-1st.jpg]
+![](https://i.postimg.cc/FF8WKV8g/5-21-1st.jpg)
 
 
 ## Chapter 6. 데이터 정제하기
