@@ -115,6 +115,7 @@ lolcolors: [https://www.webdesignrankings.com/resources/lolcolors/](https://www.
 
 ![코드 15-32](https://i.postimg.cc/kMb7Cp3F/15-1.jpg)
 
+---
 
 ### 15.3.2. plot 함수의 매개변수
 
@@ -133,6 +134,7 @@ lolcolors: [https://www.webdesignrankings.com/resources/lolcolors/](https://www.
 
 <img src=https://i.postimg.cc/ncLrJ12H/image.png, width=600>
 
+---
 
 ## 15.3.3. 영역을 분할해 하위 그래프(subplots) 그리기
 
