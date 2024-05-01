@@ -82,7 +82,15 @@
 [https://matplotlib.org/stable/gallery/color/named_colors.html](https://matplotlib.org/stable/gallery/color/named_colors.html)
 
 ---
+**[그림 15-10] 시각화에 적합한 색상 조합의 헥스 코드를 제공하는 colorhunt(좌), lolcolors(우)**
 
+<img src=https://i.postimg.cc/rmqWCk9c/image.png, width=600>
+
+그래프에 자주 사용되는 헥스 코드 제공 사이트 url
+
+colorhunt: [https://colorhunt.co/](https://colorhunt.co/)
+
+lolcolors: [https://www.webdesignrankings.com/resources/lolcolors/](https://www.webdesignrankings.com/resources/lolcolors/)
 
 
 
