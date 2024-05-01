@@ -22,7 +22,7 @@
 ## Chapter 9. apply
 ## Chapter 10. 문자열 다루기
 ## Chapter 11. 피벗과 언피벗
-[![11-15.jpg](https://i.postimg.cc/NMSjVnMz/11-15.jpg)](https://postimg.cc/R61mJXw7)
+[!그림 11-15](https://i.postimg.cc/NMSjVnMz/11-15.jpg)
 
 ## Chapter 12. 데이터 그룹화하기
 ## Chapter 13. 시계열 데이터
