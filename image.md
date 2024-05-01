@@ -102,12 +102,29 @@ lolcolors: [https://www.webdesignrankings.com/resources/lolcolors/](https://www.
 
 [https://matplotlib.org/stable/users/explain/colors/colormaps.html](https://matplotlib.org/stable/users/explain/colors/colormaps.html)
 
-### 15.3.2. plot 함수의 매개변수
 
+
+**[그림 15 12] 색상을 지정하거나 색상 팔레트를 지정해 시각화**
+
+![그림 15-12](https://i.postimg.cc/qq5J199z/image.png)
+
+---
+
+
+**[코드 15-32의 출력]**
+
+![코드 15-32](https://i.postimg.cc/kMb7Cp3F/15-1.jpg)
+
+
+### 15.3.2. plot 함수의 매개변수
 
 **[그림 15-13] 판다스 plot 함수의 주요 매개변수**
 
 <img src=https://i.postimg.cc/Hx55b9RG/image.png, width=800>
+
+---
+
+
 
 ---
 
@@ -119,7 +136,7 @@ lolcolors: [https://www.webdesignrankings.com/resources/lolcolors/](https://www.
 
 ## 15.3.3. 영역을 분할해 하위 그래프(subplots) 그리기
 
-**[그림 15 15] 데이터 프레임의 각 열을 분리해 subplots 그리기**
+**[그림 15-15] 데이터 프레임의 각 열을 분리해 subplots 그리기**
 
 <img src=https://i.postimg.cc/7PBpJ13t/image.png, width=600>
 
