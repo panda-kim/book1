@@ -102,7 +102,36 @@ lolcolors: [https://www.webdesignrankings.com/resources/lolcolors/](https://www.
 
 [https://matplotlib.org/stable/users/explain/colors/colormaps.html](https://matplotlib.org/stable/users/explain/colors/colormaps.html)
 
-### 15.3.1. 색상
+### 15.3.2. plot 함수의 매개변수
+
+
+**[그림 15-13] 판다스 plot 함수의 주요 매개변수**
+
+<img src=https://i.postimg.cc/Hx55b9RG/image.png, width=600>
+
+---
+
+
+**[그림 15-14] matplotlib과 seaborn으로 테마 적용하기**
+
+<img src=https://i.postimg.cc/ncLrJ12H/image.png, width=600>
+
+
+## 15.3.3. 영역을 분할해 하위 그래프(subplots) 그리기
+
+**[그림 15 15] 데이터 프레임의 각 열을 분리해 subplots 그리기**
+
+<img src=https://i.postimg.cc/7PBpJ13t/image.png, width=600>
+
+---
+
+
+**[그림 15-16] matplotlib 기반 그래프에서 figure와 axes, axis의 차이**
+
+<img src=https://i.postimg.cc/nhJ0wCpf/image.png, width=600>
+
+---
+
 
 
 
