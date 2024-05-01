@@ -107,7 +107,7 @@ lolcolors: [https://www.webdesignrankings.com/resources/lolcolors/](https://www.
 
 **[그림 15-13] 판다스 plot 함수의 주요 매개변수**
 
-<img src=https://i.postimg.cc/Hx55b9RG/image.png, width=600>
+<img src=https://i.postimg.cc/Hx55b9RG/image.png, width=800>
 
 ---
 
