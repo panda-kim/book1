@@ -48,6 +48,7 @@
 ## Chapter 13. 시계열 데이터
 
 **[코드 13-47의 출력]**
+
 <img src=https://i.postimg.cc/ZqBV89Gz/13-6.jpg, width=600>
 
 ---
