@@ -126,10 +126,6 @@ lolcolors: [https://www.webdesignrankings.com/resources/lolcolors/](https://www.
 ---
 
 
-
----
-
-
 **[그림 15-14] matplotlib과 seaborn으로 테마 적용하기**
 
 <img src=https://i.postimg.cc/ncLrJ12H/image.png, width=600>
