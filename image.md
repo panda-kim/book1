@@ -145,12 +145,81 @@ lolcolors: [https://www.webdesignrankings.com/resources/lolcolors/](https://www.
 
 ![그림 15-16](https://i.postimg.cc/nhJ0wCpf/image.png)
 
----
-
 
 
 
 ## Chapter 16. 데이터 분석
+
+**[그림 16-1] 볼린저 밴드**
+
+<img src=https://i.postimg.cc/8CN2dHt2/image.png, width=600>
+
+
+---
+
+**[그림 16-5] 경기당 평균 득점과 각 스탯의 상관 계수 시각화**
+
+<img src=https://i.postimg.cc/qRMgF2MY/16-5.jpg, width=600>
+
+
+---
+
+**[그림 16-6] 야구 팀 공격 스탯들의 상관 계수 히트맵 시각화**
+
+<img src=https://i.postimg.cc/25kRDGRz/16-6.png, width=600>
+
+
+---
+
+**[그림 16-9] plot 함수의 시각화와 사용자 정의 함수 plot_barh의 시각화 비교**
+
+![그림 16-9](https://i.postimg.cc/kGzRrD2m/image.png)
+
+---
+
+
+**[코드 16-33 출력]**
+
+<img src=https://i.postimg.cc/fycJVs54/16-16.png, width=600>
+
+---
+
+**[코드 16-35 출력]**
+
+<img src=https://i.postimg.cc/4N8XBnYL/16-17.jpg, width=600>
+
+---
+
+**[그림 16-14] plot 함수의 시각화와 사용자 정의 함수로 시각화의 비교]**
+
+![그림 16-14](https://i.postimg.cc/rmpJGh3Y/image.png)
+
+
+---
+
+**[그림 16-15] 각 프랜차이즈별 올리브 영 20m 이내의 매장 수와 매장 비율**
+
+
+![그림 16-15](https://i.postimg.cc/Qdt1yB0H/image.png)
+
+
+---
+
+**[코드 16-68 출력]**
+
+<img src=https://i.postimg.cc/GmGdrKMN/16-33.jpg, width=600>
+
+---
+
+**[코드 16-72 출력]**
+
+
+<img src=https://i.postimg.cc/HncFzWRK/16-35.jpg, width=600>
+
+---
+
+
+
 
 
 
