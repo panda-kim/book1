@@ -4,25 +4,19 @@
   
 본 페이지는 파이썬 데이터 분석을 위한 판다스 기본서의 그림 중 풀 컬러가 필요한 그림이 게시된 페이지입니다.
 
-## Chapter 1. 판다스 입문
-## Chapter 2. 파이썬 기초와 넘파이 라이브러리
-## Chapter 3. 데이터 프레임과 시리즈
-## Chapter 4. 인덱스
+
 ## Chapter 5. 연산
 ![그림 5-21](https://i.postimg.cc/FF8WKV8g/5-21-1st.jpg)
 ![그림 5-21](https://i.postimg.cc/tRYvyMS4/5-21-2nd.jpg)
 
 [그림 5-21] 일별 주가 추이 시각화
 
-## Chapter 6. 데이터 정제하기
-
-
-## Chapter 7. 데이터 결합하기
-## Chapter 8. 열 가공하기
-## Chapter 9. apply
-## Chapter 10. 문자열 다루기
 ## Chapter 11. 피벗과 언피벗
-[!그림 11-15](https://i.postimg.cc/NMSjVnMz/11-15.jpg)
+![그림 11-15](https://i.postimg.cc/NMSjVnMz/11-15.jpg)
+
+[그림 11-15] 남성과 여성, 그리고 15세 이하의 생존율을 비교
+
+
 
 ## Chapter 12. 데이터 그룹화하기
 ## Chapter 13. 시계열 데이터
