@@ -46,6 +46,24 @@
 
 
 ## Chapter 13. 시계열 데이터
+
+**[코드 13-47의 출력]**
+![코드 13-47](https://i.postimg.cc/ZqBV89Gz/13-6.jpg)
+
+---
+**[그림 13-17]  통합 그래프와 하위 그래프(subplot)**
+
+![그림 13-17](https://i.postimg.cc/X7YhZvY4/image.png)
+
+---
+
+**[그림 13-31] 비트코인 수익 시각화**
+
+![그림 13-31](https://i.postimg.cc/L5jHnBkC/image.png)
+
+
+
+
 ## Chapter 14. 판다스 심화 1편
 ## Chapter 15. 판다스 심화 2편
 ## Chapter 16. 데이터 분석
