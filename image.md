@@ -92,6 +92,17 @@ colorhunt: [https://colorhunt.co/](https://colorhunt.co/)
 
 lolcolors: [https://www.webdesignrankings.com/resources/lolcolors/](https://www.webdesignrankings.com/resources/lolcolors/)
 
+---
+
+**[그림 15-11] matplotlib의 다양한 색상 팔레트**
+
+<img src=https://i.postimg.cc/k53hC27c/image.png, width=600>
+
+더 많은 색상 팔레트들은 matplotlib 공식문서에서 확인할 수 있다.
+
+[https://matplotlib.org/stable/users/explain/colors/colormaps.html](https://matplotlib.org/stable/users/explain/colors/colormaps.html)
+
+### 15.3.1. 색상
 
 
 
