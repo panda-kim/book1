@@ -9,9 +9,7 @@
 
 **[그림 5-21] 일별 주가 추이 시각화**
 
-![그림 5-21](https://i.postimg.cc/FF8WKV8g/5-21-1st.jpg)
-![그림 5-21](https://i.postimg.cc/tRYvyMS4/5-21-2nd.jpg)
-
+<img src=https://i.postimg.cc/fypc5s1q/image.png, width=600>
 
 
 ## Chapter 11. 피벗과 언피벗
