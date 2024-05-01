@@ -18,7 +18,7 @@
 
 **[그림 11-15] 남성과 여성, 그리고 15세 이하의 생존율을 비교**
 
-![그림 11-15](https://i.postimg.cc/NMSjVnMz/11-15.jpg)
+<img src='https://i.postimg.cc/NMSjVnMz/11-15.jpg', width=600>
 
 
 
