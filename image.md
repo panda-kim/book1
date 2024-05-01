@@ -15,11 +15,15 @@
 [그림 5-21] 일별 주가 추이 시각화
 
 ## Chapter 6. 데이터 정제하기
+
+
 ## Chapter 7. 데이터 결합하기
 ## Chapter 8. 열 가공하기
 ## Chapter 9. apply
 ## Chapter 10. 문자열 다루기
 ## Chapter 11. 피벗과 언피벗
+[![11-15.jpg](https://i.postimg.cc/NMSjVnMz/11-15.jpg)](https://postimg.cc/R61mJXw7)
+
 ## Chapter 12. 데이터 그룹화하기
 ## Chapter 13. 시계열 데이터
 ## Chapter 14. 판다스 심화 1편
