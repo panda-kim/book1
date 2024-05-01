@@ -77,6 +77,13 @@
 <img src=https://i.postimg.cc/rmZjYssM/15-9.jpg, width=600>
 
 
+해당 색상들은 matplotlib 공식문서에서 확인할 수 있다.
+
+[https://matplotlib.org/stable/gallery/color/named_colors.html](https://matplotlib.org/stable/gallery/color/named_colors.html)
+
+---
+
+
 
 
 
