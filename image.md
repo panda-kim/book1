@@ -10,7 +10,8 @@
 ## Chapter 4. 인덱스
 ## Chapter 5. 연산
 ![그림 5-21](https://i.postimg.cc/FF8WKV8g/5-21-1st.jpg)
-
+![그림 5-21](https://i.postimg.cc/tRYvyMS4/5-21-2nd.jpg)
+[그림 5 21] 일별 주가 추이 시각화
 
 ## Chapter 6. 데이터 정제하기
 ## Chapter 7. 데이터 결합하기
