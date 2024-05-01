@@ -66,6 +66,17 @@
 
 ### 15.3.1. 색상
 
+**[그림 15-8] matplotlib의 대표적 색상**
+
+<img src=https://i.postimg.cc/Vv1fpfVZ/15-8.jpg, width=600>
+
+---
+
+**[그림 15-9] matplotlib에서 지원하는 색상 이름**
+
+<img src=https://i.postimg.cc/rmZjYssM/15-9.jpg, width=600>
+
+
 
 
 
