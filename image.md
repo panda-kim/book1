@@ -34,7 +34,7 @@
 **[그림 12-37]  모델과 연식에 따른 평균 중고차 가격 분석**
 
 
-![그림 12-37](https://i.postimg.cc/YqpymC8b/image.png)
+<img src=https://i.postimg.cc/YqpymC8b/image.png, width=600>
 
 ---
 
