@@ -150,12 +150,16 @@ lolcolors: [https://www.webdesignrankings.com/resources/lolcolors/](https://www.
 
 ## Chapter 16. 데이터 분석
 
+### 16.1. 볼린저 밴드
+
 **[그림 16-1] 볼린저 밴드**
 
 <img src=https://i.postimg.cc/8CN2dHt2/image.png, width=600>
 
 
 ---
+
+### 16.2. 머니볼
 
 **[그림 16-5] 경기당 평균 득점과 각 스탯의 상관 계수 시각화**
 
@@ -170,6 +174,9 @@ lolcolors: [https://www.webdesignrankings.com/resources/lolcolors/](https://www.
 
 
 ---
+
+### 16.3. 축구 국가대표 A매치 결과 분석
+
 
 **[그림 16-9] plot 함수의 시각화와 사용자 정의 함수 plot_barh의 시각화 비교**
 
@@ -190,6 +197,8 @@ lolcolors: [https://www.webdesignrankings.com/resources/lolcolors/](https://www.
 
 ---
 
+### 16.4. 올리브 영과 커피 프랜차이즈의 거리 분석
+
 **[그림 16-14] plot 함수의 시각화와 사용자 정의 함수로 시각화의 비교]**
 
 ![그림 16-14](https://i.postimg.cc/rmpJGh3Y/image.png)
@@ -204,6 +213,8 @@ lolcolors: [https://www.webdesignrankings.com/resources/lolcolors/](https://www.
 
 
 ---
+
+### 16.5. 증권회사 실무 빅데이터 처리
 
 **[코드 16-68 출력]**
 
