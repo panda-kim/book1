@@ -48,7 +48,7 @@
 ## Chapter 13. 시계열 데이터
 
 **[코드 13-47의 출력]**
-![코드 13-47](https://i.postimg.cc/ZqBV89Gz/13-6.jpg)
+<img src=https://i.postimg.cc/ZqBV89Gz/13-6.jpg, width=600>
 
 ---
 **[그림 13-17]  통합 그래프와 하위 그래프(subplot)**
