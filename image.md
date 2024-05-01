@@ -34,13 +34,13 @@
 **[그림 12-37]  모델과 연식에 따른 평균 중고차 가격 분석**
 
 
-<img src=https://i.postimg.cc/YqpymC8b/image.png, width=600>
+![그림 12-37](https://i.postimg.cc/YqpymC8b/image.png)
 
 ---
 
 **[그림 12-38]  모델과 연식에 따른 아우디 중고차 가격 분석**
 
-![그림 12-38](https://i.postimg.cc/htVzWKRR/12-38.jpg)
+<img src=https://i.postimg.cc/htVzWKRR/12-38.jpg, width=600>
 
 
 
@@ -63,8 +63,6 @@
 
 
 
-
-## Chapter 14. 판다스 심화 1편
 ## Chapter 15. 판다스 심화 2편
 ## Chapter 16. 데이터 분석
 
