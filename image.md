@@ -102,6 +102,7 @@ lolcolors: [https://www.webdesignrankings.com/resources/lolcolors/](https://www.
 
 [https://matplotlib.org/stable/users/explain/colors/colormaps.html](https://matplotlib.org/stable/users/explain/colors/colormaps.html)
 
+---
 
 
 **[그림 15 12] 색상을 지정하거나 색상 팔레트를 지정해 시각화**
