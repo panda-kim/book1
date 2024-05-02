@@ -202,7 +202,7 @@ lolcolors: [https://www.webdesignrankings.com/resources/lolcolors/](https://www.
 
 **[그림 16-14] plot 함수의 시각화와 사용자 정의 함수로 시각화의 비교]**
 
-![그림 16-14](https://i.postimg.cc/rmpJGh3Y/image.png)
+![그림 16-14](https://i.postimg.cc/8zZf53rs/image.png)
 
 
 ---
