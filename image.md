@@ -137,7 +137,9 @@ lolcolors: [https://www.webdesignrankings.com/resources/lolcolors/](https://www.
 
 **[그림 15-15] 데이터 프레임의 각 열을 분리해 subplots 그리기**
 
-![그림 15-15](https://i.postimg.cc/7PBpJ13t/image.png)
+![그림 15-15](https://i.postimg.cc/D0YzL69x/image.png)
+
+
 
 ---
 
