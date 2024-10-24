@@ -1,8 +1,12 @@
 
+## 구글 코랩 사용법 무료 강의 안내
+
 - 구글 코랩이 익숙하지 않으신 분들은 아래 영상을 참고하시면 큰 도움이 될 것입니다.
 
 - [구글 코랩 사용법 강의 영상](https://www.slid.cc/ko/share/vdocs/%EA%B5%AC%EA%B8%80-%EC%BD%94%EB%9E%A9google-colab-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0-161d3b0d7d3d41f3b08ed7d47848db8a)
 
+
+<br><br>
 
 ## 깃허브의 ipynb 파일을 구글 코랩에서 손쉽게 사용하는 방법
 
